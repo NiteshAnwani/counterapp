@@ -2,8 +2,6 @@ import React,{Component} from 'react';
 
 class Counter extends Component
 {
-    
-    
     // formatRender()
     // {
     //     if (this.state.tags.length===0) return <p>No items found</p> 
